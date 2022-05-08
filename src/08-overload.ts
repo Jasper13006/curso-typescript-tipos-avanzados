@@ -22,4 +22,4 @@ const rtaStr = parseStr(['N', 'i', 'c', 'o']);
 if (typeof rtaStr === 'string') {
     rtaStr.toLowerCase();
 }
-console.log('rtaStr', "['N','i','c','o'] =>", rtaStr);
+console.log('rtaStr', "['N','i','c','o'] =>", rtaStr);  
